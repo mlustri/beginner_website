@@ -1,11 +1,13 @@
 body {
   font-family: Arial, sans-serif;
   margin: 20px;
-
+  
   background-color: lightblue;
 }
 
-
+.centered {
+  text-align: center;
+}
 
 .row {
   display: flex;
