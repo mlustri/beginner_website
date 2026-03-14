@@ -23,8 +23,8 @@ body {
 }
 
 .col h5  { 
-  margin: 5px 0; /* top/bottom = 5px, left/right = 0 */ 
-      
-         
-         }
+  margin-top: 5px; /* smaller space above */ 
+  margin-bottom: 5px; /* smaller space below */
+       
+}
 
